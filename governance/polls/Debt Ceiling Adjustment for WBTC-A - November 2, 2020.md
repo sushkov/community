@@ -1,22 +1,22 @@
 ---
-title: Adjust the $ilk_name Risk Premium - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition for adjusting the $ilk_name Risk Premium to from $current_premium to $new_premium
-discussion_link: $discussion_link
+title: Adjust the WBTC-A Debt Ceiling - November 2, 2020
+summary: Signal your support or opposition for adjusting the WBTC-A Debt Ceiling from 120 million DAI to 160 million DAI
+discussion_link: https://forum.makerdao.com/t/signal-request-raise-the-wbtc-debt-ceiling/4861
 vote_type: Plurality Voting
 options:
    0: Abstain
    1: Yes
    2: No
 ---
-# Poll: Adjust the $ilk_name Risk Premium - $date_MONTH_DD,_YYYY
+# Poll: Adjust the WBTC-A Debt Ceiling - November 2, 2020
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the $poll_source. The community can vote in this poll to express support or opposition to increasing the $ilk_name Risk Premium from $current_premium to $new_premium.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Maker Governance Community. The community can vote in this poll to express support or opposition to adjusting the WBTC-A Debt Ceiling from 120 million DAI to 160 million DAI.
 
-This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+This Governance [Poll](https://community-development.makerdao.com/en/learn/governance/on-chain-gov) will be active for three days beginning on Monday, November 2 at 16:00 UTC.
 
 ## Review
 
-Please review the discussion [thread]($discussion_link) to inform your position on this issue before voting.
+Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-raise-the-wbtc-debt-ceiling/4861) to inform your position on this issue before voting.
 
 ## Next Steps
 
