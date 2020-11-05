@@ -3,6 +3,8 @@ title: Whitelist $whitelisted_entity on $whitelisted_oracle Oracle (MIP10c9-SP$s
 summary: The Governance Poll will determine whether the proposal at hand will proceed to an Executive Vote. 
 discussion_link: $discussion_link
 vote_type: Plurality Voting
+categories:
+   - Oracles
 options:
    0: Abstain
    1: Yes

@@ -3,6 +3,8 @@ title: Increase the Surplus Auction Buffer - $date_MONTH_DD,_YYYY
 summary: Signal your support or opposition for increasing the Surplus Buffer from $currentBuffer to $newBuffer
 discussion_link: $discussion_link
 vote_type: Plurality Voting
+categories:
+   - Risk Variable
 options:
    0: Abstain
    1: Yes

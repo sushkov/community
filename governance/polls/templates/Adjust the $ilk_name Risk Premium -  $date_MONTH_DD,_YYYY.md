@@ -3,6 +3,8 @@ title: Adjust the $ilk_name Risk Premium - $date_MONTH_DD,_YYYY
 summary: Signal your support or opposition for adjusting the $ilk_name Risk Premium to from $current_premium to $new_premium
 discussion_link: $discussion_link
 vote_type: Plurality Voting
+categories:
+   - Risk Variable
 options:
    0: Abstain
    1: Yes
